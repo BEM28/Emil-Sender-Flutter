@@ -4,10 +4,10 @@ A SMTP in Flutter
 
 ## Getting Started
 
-intall package mailer & flutter_dotenv &nbsp;
-create .env file &nbsp;
-  SMTP_USERNAME= &nbsp;
-  SMTP_PASSWORD=&nbsp;
+intall package mailer & flutter_dotenv;
+create .env file
+  SMTP_USERNAME= 
+  SMTP_PASSWORD=
 
 
 
